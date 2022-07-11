@@ -1,0 +1,13 @@
+.App {
+  margin-top: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;              /* establish flex container */
+  flex-direction: column;     /* stack flex items vertically */
+  align-items: center;        /* center items horizontally, in this case */
+}
+
+h1 {
+  text-align: center;
+}
+
